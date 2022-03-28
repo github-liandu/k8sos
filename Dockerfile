@@ -1,2 +1,2 @@
-FROM coredns/coredns:1.9.0
+FROM docker.io/calico/kube-controllers:v3.22.1
 
