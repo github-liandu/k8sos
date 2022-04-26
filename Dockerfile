@@ -1,3 +1,4 @@
-FROM k8s.gcr.io/metrics-server:v0.6.1
+FROM coredns/coredns:1.9.0
+
 
 
