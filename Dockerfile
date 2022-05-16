@@ -1,4 +1,5 @@
-FROM docker.io/calico/pod2daemon-flexvol:v3.22.2
+FROM  docker.io/calico/kube-controllers:v3.22.2
+
 
 
 
