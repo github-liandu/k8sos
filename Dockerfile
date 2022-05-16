@@ -1,4 +1,5 @@
-FROM docker.io/calico/node:v3.22.2
+FROM docker.io/calico/cni:v3.22.2
+
 
 
 
