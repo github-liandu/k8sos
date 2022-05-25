@@ -1,4 +1,4 @@
-FROM coredns/coredns:1.9.2
+FROM k8s.gcr.io/kubernetes-zookeeper:1.0-3.4.10
 
 
 
