@@ -1,4 +1,4 @@
-FROM k8s.gcr.io/autoscaling/vpa-updater:0.10.0
+FROM k8s.gcr.io/kube-apiserver:v1.20.15
 
 
 
