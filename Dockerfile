@@ -1,4 +1,5 @@
-FROM k8s.gcr.io/kube-apiserver:v1.20.15
+FROM k8s.gcr.io/kube-controller-manager:v1.20.15
+
 
 
 
